@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92ddfee0-fff7-4fbf-b60b-82f9a9a6e398" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MB1opY6OYDgYeX0npsQzyIp6NH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/midmorningDjangocat1/templates&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="midmorningDjangocat1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="midmorningDjangocat1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92ddfee0-fff7-4fbf-b60b-82f9a9a6e398" name="Changes" comment="" />
+      <created>1677226339795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677226339795</updated>
+      <workItem from="1677226361675" duration="84000" />
+      <workItem from="1677226592135" duration="202000" />
+      <workItem from="1677226962974" duration="304000" />
+      <workItem from="1677227298039" duration="247000" />
+      <workItem from="1677227680339" duration="72000" />
+      <workItem from="1677227807666" duration="146000" />
+      <workItem from="1677228016573" duration="166000" />
+      <workItem from="1677228303424" duration="147000" />
+      <workItem from="1677228538049" duration="102000" />
+      <workItem from="1677228665373" duration="304000" />
+      <workItem from="1677229012843" duration="80000" />
+      <workItem from="1677229112820" duration="58000" />
+      <workItem from="1677229196368" duration="99000" />
+      <workItem from="1677229387032" duration="130000" />
+      <workItem from="1677229542354" duration="88000" />
+      <workItem from="1677229673166" duration="86000" />
+      <workItem from="1677229847003" duration="1926000" />
+      <workItem from="1677231859022" duration="13000" />
+      <workItem from="1677232013164" duration="137000" />
+      <workItem from="1677232230263" duration="123000" />
+      <workItem from="1677232388151" duration="1134000" />
+      <workItem from="1677233636511" duration="98000" />
+      <workItem from="1677233768563" duration="36000" />
+      <workItem from="1677233861692" duration="117000" />
+      <workItem from="1677234036982" duration="83000" />
+      <workItem from="1677234229017" duration="357000" />
+      <workItem from="1677234653113" duration="1089000" />
+      <workItem from="1677235803114" duration="200000" />
+      <workItem from="1677485034613" duration="267000" />
+      <workItem from="1677485437146" duration="1443000" />
+      <workItem from="1677486913287" duration="968000" />
+      <workItem from="1677487937946" duration="6000" />
+      <workItem from="1677488046650" duration="709000" />
+      <workItem from="1677488798750" duration="201000" />
+      <workItem from="1677489046930" duration="486000" />
+      <workItem from="1677490106578" duration="14000" />
+      <workItem from="1677490148412" duration="10000" />
+      <workItem from="1677490175317" duration="32000" />
+      <workItem from="1677490292587" duration="20000" />
+      <workItem from="1677490360354" duration="352000" />
+      <workItem from="1677490733903" duration="683000" />
+      <workItem from="1677491430486" duration="4000" />
+      <workItem from="1677491474329" duration="33000" />
+      <workItem from="1677491978640" duration="15000" />
+      <workItem from="1677492022758" duration="675000" />
+      <workItem from="1677579740465" duration="2240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
